@@ -1,0 +1,4 @@
+com\mycompany\couplingcohesion\PaymentProcessor.class
+com\mycompany\couplingcohesion\Product.class
+com\mycompany\couplingcohesion\ShoppingCart.class
+com\mycompany\couplingcohesion\CouplingCohesion.class

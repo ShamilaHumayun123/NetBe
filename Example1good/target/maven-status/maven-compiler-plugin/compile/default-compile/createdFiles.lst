@@ -1,0 +1,5 @@
+com\mycompany\example1good\Example1good.class
+com\mycompany\example1good\SeasonalDiscount.class
+com\mycompany\example1good\Discount.class
+com\mycompany\example1good\FixedDiscount.class
+com\mycompany\example1good\PercentageDiscount.class
